@@ -83,10 +83,7 @@ Notes:
 
 A minimal example file is included as `example_minimal.csv`. It contains the required datetime columns and a small sample of `GHI` and `Temperature` values for quick testing.
 
-## License & Contact
+## Acknowledgement
 
-Add your preferred license and contact information here.
-
----
-
-If you'd like, I can also add a small unit test or a CI config to run a smoke test of the app on push.
+Parts of this code were adapted and modified from a Kaggle Notebook:
+"XGBoost Regression model" by Neeraj Mohan, licensed under the Apache 2.0 License.
